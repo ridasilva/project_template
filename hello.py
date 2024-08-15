@@ -7,7 +7,7 @@ import sys
 
 def hello(nome_visitante):
     '''
-    Função que imprimi uma mensagem de boas vindas
+    Função que imprime uma mensagem de boas vindas.
     '''
     print(f'Olá {nome_visitante}, seja bem-vindo!')
 
